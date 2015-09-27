@@ -1,0 +1,21 @@
+﻿Build started 15-04-2015 03:58:52.
+     1>Project "C:\Users\Amm\Pictures\OOP\OOP2\OOP2\OOP2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OOP2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         OOP2.vcxproj -> C:\Users\Amm\Pictures\OOP\OOP2\Debug\OOP2.exe
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\OOP2.unsuccessfulbuild".
+         Touching "Debug\OOP2.lastbuildstate".
+     1>Done Building Project "C:\Users\Amm\Pictures\OOP\OOP2\OOP2\OOP2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18

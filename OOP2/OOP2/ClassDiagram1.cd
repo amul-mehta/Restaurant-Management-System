@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutUs">
+    <Position X="5.5" Y="6.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CAboutUs::__unnamed_enum_0002_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AboutUs.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAwAAAAAAAAAA=</HashCode>
+      <FileName>AboutUs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CApp">
+    <Position X="2.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMenuRecord">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAAAAACAAQCgAJgAAIAAQAAAIAAAQAAAAAQAE=</HashCode>
+      <FileName>CMenuRecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmpEdit">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="CEmpEdit::__unnamed_enum_0008_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmpEdit.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAkIAAEAAAAIABBIABEAAAAAgABBAAAAAAAAAABACAA=</HashCode>
+      <FileName>EmpEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmpTable">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABACAIACAAAhAAACAQAEAAAAABEAAAAAAA=</HashCode>
+      <FileName>EmpTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEmpView">
+    <Position X="11" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="CEmpView::__unnamed_enum_000c_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EmpView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAkICAEECAAIAABBABMAAAAAAAAFCAAGAAAAAAAIAgA=</HashCode>
+      <FileName>EmpView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Frame">
+    <Position X="13.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQEAAAAAAAAAAAAAgCBAAAASAAACAAAAAAgAAA=</HashCode>
+      <FileName>Main_Frame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMenuEdit">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CMenuEdit::__unnamed_enum_0010_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuEdit.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAkJABEAAEBIAABoABQgAAAAAAABCAAAgIgFBPEAAAE=</HashCode>
+      <FileName>MenuEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMenuView">
+    <Position X="13.5" Y="4" Width="2" />
+    <NestedTypes>
+      <Enum Name="CMenuView::__unnamed_enum_0012_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEIAAEAAEBIAABiABAgAAAEAAABAAAAEAgEAAEAAAE=</HashCode>
+      <FileName>MenuView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMLogin">
+    <Position X="8.25" Y="4.25" Width="2" />
+    <NestedTypes>
+      <Enum Name="CMLogin::__unnamed_enum_0014_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MLogin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAABAAAAIAAAAAAAAAAIAUAAAABAA=</HashCode>
+      <FileName>MLogin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COrder">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="COrder::__unnamed_enum_0016_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Order.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAFJAgEAA0BIAEBoABEoAAAIACEBAAAAgAoEABEhAAE=</HashCode>
+      <FileName>Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
